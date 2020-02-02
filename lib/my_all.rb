@@ -9,4 +9,5 @@ i += 1
 
 end 
 
-endmy_all?([1,2,3]) {|i| i < 2}
+end
+my_all?([1,2,3]) {|i| i < 2}
